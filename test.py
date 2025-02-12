@@ -1,11 +1,11 @@
 import os
 
-print("Hello World and Universe")
+print("Hello World and UniverseFix")
 
-print("Test Started")
+print("Test StartedFix")
 
-print("Init Test")
+print("Init TestFix")
 
-print("Update 01")
+print("Update 01Fix")
 
 print("Update 02Fix")
